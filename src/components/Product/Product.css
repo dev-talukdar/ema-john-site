@@ -37,9 +37,13 @@
     background: #ffe0b3;
     border: 1px solid #95A0a7; 
     width: 100%;
-    bottom: 0;
+    bottom: 0;  
 }
 
 .btn-cart:hover{
     background-color: orange;
+}
+
+#shopping-cart{
+    margin-left: 10px;
 }
