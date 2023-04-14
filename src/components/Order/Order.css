@@ -1,3 +1,17 @@
 .review-container{
  margin: 50px auto;   
 }
+
+.btn-proceed-checkout{
+    background: #ff9900;
+    text-decoration: none;
+    width: 100%;
+    height: 56px;
+    font-size: 21px;
+    margin: 10px auto;
+    border-radius: 4px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

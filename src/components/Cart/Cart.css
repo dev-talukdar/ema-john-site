@@ -3,9 +3,24 @@
     padding: 25px; 
     position: sticky;
     top: 0;
+    align-items: center;
 }
 
 .cart p{
     font-size: 17px;
     font-weight: 600; 
+} 
+
+.btn-clear-cart{ 
+    background-color: rgba(255, 0, 0, 0.603);  
+    width: 100%;
+    height: 56px;
+    font-size: 21px;
+    margin: 10px auto;
+    border-radius: 4px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
 }
